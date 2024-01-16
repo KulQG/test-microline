@@ -1,0 +1,15 @@
+.wrap {
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 8px;
+    margin-top: 15px;
+}
+
+.text {
+    font-size: medium;
+    margin: 0;
+}
+
+.res {
+    font-weight: bolder;
+}
